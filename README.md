@@ -25,6 +25,12 @@
 <p><a href="https://purvesh-dodiya.medium.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
+<table >
+    <tr>
+  <th><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="30" title="YouTube" /></th>
+<th ><h3> You tube </h3></th>
+    </tr>
+</table>
 <a href="https://www.youtube.com/channel/UC5l0vGph53QqGX5PgG1yong">
  <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UC5l0vGph53QqGX5PgG1yong&key=AIzaSyBoMZ5UvdsPx9A7jfKyopsq0T_VLF0jjnU&label=Views&label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/>
 </a>
