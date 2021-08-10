@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hi there! I'm Purvesh Dodiya 👋
 
-<!--
-**Purvesh-Dodiya/Purvesh-Dodiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+![](https://komarev.com/ghpvc/?username=Purvesh-Dodiya&color=blue&style=flat)
 
 - 🔭 I’m currently working on Android and iOS app development
 - 🌱 I’m currently learning Jetpack compose and swiftUI
