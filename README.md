@@ -25,7 +25,17 @@
 <p><a href="https://purvesh-dodiya.medium.com" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=Purvesh-Dodiya&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purvesh-Dodiya&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+<a href="https://www.youtube.com/channel/UC5l0vGph53QqGX5PgG1yong">
+ <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UC5l0vGph53QqGX5PgG1yong&key=AIzaSyBoMZ5UvdsPx9A7jfKyopsq0T_VLF0jjnU&label=Views&label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/>
+</a>
+
+<a href="https://www.youtube.com/channel/UC5l0vGph53QqGX5PgG1yong">
+ <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UC5l0vGph53QqGX5PgG1yong&key=AIzaSyBoMZ5UvdsPx9A7jfKyopsq0T_VLF0jjnU&label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/>
+</a>
+
+<div>
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=Purvesh-Dodiya&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Purvesh-Dodiya&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 
 <p align="center">
   <a href="https://github.com/Purvesh-Dodiya"><span>
