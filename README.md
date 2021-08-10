@@ -9,16 +9,16 @@
 
 ### 📫 How to reach me:
 
-<a href="https://github.com/purvesh-d">
+<a href="https://github.com/purvesh-d" target="_blank">
   <img align="left" alt="Purvesh Dodiya | Github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
 </a>
-<a href="https://twitter.com/Purvesh__Dodiya">
+<a href="https://twitter.com/Purvesh__Dodiya" target="_blank">
   <img align="left" alt="Purvesh Dodiya | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/purveshdodiya">
+<a href="https://www.linkedin.com/in/purveshdodiya" target="_blank">
   <img align="left" alt="Purvesh Dodiya" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://stackoverflow.com/users/15556864/purvesh-dodiya">
+<a href="https://stackoverflow.com/users/15556864/purvesh-dodiya" target="_blank">
   <img align="left" alt="Purvesh Dodiya's StackOverflow" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" />
 </a>
 
@@ -27,10 +27,10 @@
 
 ## You Tube:
 
-<a href="https://www.youtube.com/channel/UC5l0vGph53QqGX5PgG1yong">
+<a target="_blank" href="https://www.youtube.com/channel/UC5l0vGph53QqGX5PgG1yong">
  <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UC5l0vGph53QqGX5PgG1yong&key=AIzaSyBoMZ5UvdsPx9A7jfKyopsq0T_VLF0jjnU&label=Views&label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/>
 </a>
-<a href="https://www.youtube.com/channel/UC5l0vGph53QqGX5PgG1yong">
+<a target="_blank" href="https://www.youtube.com/channel/UC5l0vGph53QqGX5PgG1yong">
  <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UC5l0vGph53QqGX5PgG1yong&key=AIzaSyBoMZ5UvdsPx9A7jfKyopsq0T_VLF0jjnU&label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/>
 </a>
 
